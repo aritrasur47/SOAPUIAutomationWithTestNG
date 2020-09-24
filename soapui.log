@@ -1,0 +1,7 @@
+2020-09-24 19:45:06,071 WARN  [SoapUI] Missing folder [/Users/aritramac/Desktop/EclipseWork/SOAPUI/ext] for external libraries
+2020-09-24 19:45:06,073 INFO  [DefaultSoapUICore] Creating new settings at [/var/root/soapui-settings.xml]
+2020-09-24 19:45:07,476 INFO  [PluginManager] 0 plugins loaded in 3 ms
+2020-09-24 19:45:07,476 INFO  [DefaultSoapUICore] All plugins loaded
+2020-09-24 19:45:09,759 INFO  [WsdlProject] Loaded project from [file:/Users/aritramac/Desktop/SOAP/Library-project.xml]
+2020-09-24 19:45:11,588 INFO  [WsdlProject] Loaded project from [file:/Users/aritramac/Desktop/AutomatingwithGroovy-soapui-project.xml]
+2020-09-24 19:45:12,037 INFO  [WsdlProject] Loaded project from [file:/Users/aritramac/Desktop/SOAP/SOAPproperties-soapui-project.xml]

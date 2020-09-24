@@ -1,0 +1,3 @@
+javac -cp "./lib/*" -d ./bin ./src/rest/*.java
+javac -cp "./lib/*" -d ./bin ./src/soap/*.java
+java -cp bin:lib/* org.testng.TestNG testng.xml
